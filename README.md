@@ -1,5 +1,5 @@
 <h1 align="center" > Hi there 👋, I'm Ahmad here </h1>
-<h3 align="center" > Fullstack Python Django|Flask & Angular developer </h3>
+<h3 align="center" > Fullstack Python Django | Flask & Angular developer </h3>
 <img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg">
 
 
