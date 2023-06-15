@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Ahmad here,
 
 <!--
-**ahmadch-25/ahmadch-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Goal-oriented Web and Mobile Applications Developer with a strong commitment to collaboration and solutions-oriented problem-solving. 💪 Use various web design packages to develop custom-crafted, customer-focused websites and designs. Committed to high standards of user experience and usability. 🌟
 
-Here are some ideas to get you started:
+🎯 I have 3 years of experience exploiting the model-template-view architectural pattern of the Django and Angular framework to shorten development times and reduce design costs. 🏗️ Specialize in creating accessible, data-driven web assets, applying Django to complex database assets with a strong web presence, restful API, and extensive cloud monitoring, deployment, and troubleshooting skills. ☁️🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📱 Experience in developing Cross-platform Mobile applications with flutter with awesome UI/UX design and integration of third-party API + firebase backend. 📲💡 Expert in blockchain mobile application development. ⛓️
+
+Get ready to take your web and mobile projects to the next level with my expertise! Let's build amazing applications together! 🌟🔨💻
+
+Technologies and services: 💻
+-Python 🐍
+-Django 🎯
+-Angular 🅰️
+-React ⚛️
+-Flutter Cross-platform Application 📱✨
+-Firebase 🔥
+-PostgreSQL 🐘
+-Scraper | BeautifulSoup | Selenium | Scrapy 🕷️
+-NumPy | Pandas | Matplotlib 📊
+-AWS ☁️
+-Microservices 🌐
+-APIs | REST 📡
+
+With proficiency in these cutting-edge technologies and services, I'm equipped to bring your projects to life with seamless integration, robust functionality, and stunning user experiences! Let's create something extraordinary together! 🚀✨
 -->
