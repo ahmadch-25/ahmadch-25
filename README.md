@@ -1,3 +1,4 @@
+<img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg">
 ### Hi there 👋, I'm Ahmad here,
 
 🚀 Goal-oriented Web and Mobile Applications Developer with a strong commitment to collaboration and solutions-oriented problem-solving. 💪 Use various web design packages to develop custom-crafted, customer-focused websites and designs. Committed to high standards of user experience and usability. 🌟
