@@ -12,18 +12,19 @@
 Get ready to take your web and mobile projects to the next level with my expertise! Let's build amazing applications together! 🌟🔨💻
 
 Technologies and services: 💻
--Python 🐍
--Django 🎯
--Angular 🅰️
--React ⚛️
--Flutter Cross-platform Application 📱✨
--Firebase 🔥
--PostgreSQL 🐘
--Scraper | BeautifulSoup | Selenium | Scrapy 🕷️
--NumPy | Pandas | Matplotlib 📊
--AWS ☁️
--Microservices 🌐
--APIs | REST 📡
-
+<ul>
+<li>Python 🐍</li>
+<li>Django 🎯</li>
+<li>Angular 🅰️</li>
+<li>React ⚛️</li>
+<li>Flutter Cross-platform Application 📱✨</li>
+<li>Firebase 🔥</li>
+<li>PostgreSQL 🐘</li>
+<li>Scraper | BeautifulSoup | Selenium | Scrapy 🕷️</li>
+<li>NumPy | Pandas | Matplotlib 📊</li>
+<li>AWS ☁️</li>
+<li>Microservices 🌐</li>
+<li>APIs | REST 📡</li>
+</ul>
 With proficiency in these cutting-edge technologies and services, I'm equipped to bring your projects to life with seamless integration, robust functionality, and stunning user experiences! Let's create something extraordinary together! 🚀✨
 
